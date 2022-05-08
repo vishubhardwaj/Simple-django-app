@@ -1,2 +1,2 @@
 # Simple-django-app
-Simple django blog and users app
+This is a starter Djnago project with a Blog, Users and a polls app included.
